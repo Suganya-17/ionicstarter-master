@@ -1,0 +1,30 @@
+:root {
+    --ion-background-color:#000000;
+    --ion-text-color:#ffffff;
+}
+.content{
+    --ion-background-color:#504d4d;
+    --ion-text-color:#ffffff;
+}
+.title-style{
+    font-weight: bold;
+}
+.column-style{
+    width: 40px;
+}
+.sub-heading{
+    font-size: 18px;
+    padding:10px;
+}
+.table-container{
+    --ion-background-color:#ffffff;
+    --ion-text-color:#000000;
+}
+.column-alignment{
+    padding-right:200px;
+    padding-top:10px;
+    font-size:10px;
+    font-weight: bold;
+}
+
+    
