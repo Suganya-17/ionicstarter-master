@@ -43,7 +43,7 @@ const Home: React.FC = () =>  {
         <IonRow>
           <IonCol size="auto">
           <div className='column-style'><IonIcon  icon = {arrowBack} size ="large"> </IonIcon></div></IonCol>
-          <IonCol className="sub-heading">Construction Progress Checksheet</IonCol>
+          <IonCol className="sub-heading">Construction  Progress Checksheet</IonCol>
         </IonRow>
         </IonGrid>
         <IonContent className="table-container">
